@@ -1,0 +1,12 @@
+D:\Documents\repos\Geometry\bin\Debug\net7.0\Geometry.deps.json
+D:\Documents\repos\Geometry\bin\Debug\net7.0\Geometry.dll
+D:\Documents\repos\Geometry\bin\Debug\net7.0\Geometry.pdb
+D:\Documents\repos\Geometry\obj\Debug\net7.0\Geometry.csproj.AssemblyReference.cache
+D:\Documents\repos\Geometry\obj\Debug\net7.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\repos\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfoInputs.cache
+D:\Documents\repos\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfo.cs
+D:\Documents\repos\Geometry\obj\Debug\net7.0\Geometry.csproj.CoreCompileInputs.cache
+D:\Documents\repos\Geometry\obj\Debug\net7.0\Geometry.dll
+D:\Documents\repos\Geometry\obj\Debug\net7.0\refint\Geometry.dll
+D:\Documents\repos\Geometry\obj\Debug\net7.0\Geometry.pdb
+D:\Documents\repos\Geometry\obj\Debug\net7.0\ref\Geometry.dll
